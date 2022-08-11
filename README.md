@@ -24,7 +24,7 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  pip install pick
+  pip install pick progress
 ```
 
 Run the program (Windows)
