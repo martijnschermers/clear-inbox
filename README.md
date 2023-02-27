@@ -1,4 +1,4 @@
-# Remove Email
+# Clear Inbox
 Simple CLI program that makes it possible to remove all the emails in a certain inbox. 
 Currently Gmail and Outlook are supported.
 
